@@ -1,4 +1,4 @@
-# Frequency API
+# Sequence API
 
 ## Запуск
 
